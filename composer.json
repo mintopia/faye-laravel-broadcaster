@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4",
         "illuminate/broadcasting": "^5.4",
-        "arnislielturks/faye-client": "^0.13.0"
+        "arnislielturks/faye-client": "^0.14.0"
     },
     "require-dev": {
         "illuminate/support": "~5"
