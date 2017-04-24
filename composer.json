@@ -1,0 +1,32 @@
+{
+    "name": "arnislielturks/faye-laravel-broadcaster",
+    "description": "Faye service laravel broadcaster",
+    "keywords": [
+        "laravel",
+        "faye",
+        "faye-laravel-broadcaster",
+        "laravel-broadcasting"
+    ],
+    "homepage": "https://faye.jcoglan.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arnis Lielturks",
+            "email": "arnis.lielturks@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "illuminate/broadcasting": "^5.4",
+        "arnislielturks/faye-client": "^0.13.0"
+    },
+    "require-dev": {
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ArnisLielturks\\FayeBroadcaster\\": "src/"
+        }
+    }
+}
