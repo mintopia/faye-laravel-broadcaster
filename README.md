@@ -1,6 +1,6 @@
 # faye-laravel-broadcaster
 
-## This is a wrapper for https://github.com/ArnisLielturks/faye-clientt library. Intended for use in Laravel 5+ applications
+## This is a wrapper for https://github.com/ArnisLielturks/faye-client library. Intended for use in Laravel 5+ applications. This allows broadcasting messages to Faye service via Laravel events
 ### Installation
 1. Install the package via composer:
  ```sh
