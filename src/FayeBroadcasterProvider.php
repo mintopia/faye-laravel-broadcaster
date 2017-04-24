@@ -5,7 +5,7 @@ namespace ArnisLielturks\FayeBroadcaster;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Broadcasting\BroadcastManager;
-use App\Services\FayeBroadcaster\FayeBroadcaster;
+use ArnisLielturks\FayeBroadcaster\FayeBroadcaster;
 use Log;
 
 class FayeBroadcasterProvider extends ServiceProvider

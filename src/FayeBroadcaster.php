@@ -5,7 +5,7 @@ namespace ArnisLielturks\FayeBroadcaster;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use Symfony\Component\HttpKernel\Exception\HttpException;
-use ArnisLielturks\FayeService;
+use ArnisLielturks\FayeClient\FayeService;
 use Illuminate\Broadcasting\Broadcasters\Broadcaster;
 
 class FayeBroadcaster extends Broadcaster
