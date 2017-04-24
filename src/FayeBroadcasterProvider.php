@@ -8,7 +8,7 @@ use Illuminate\Broadcasting\BroadcastManager;
 use App\Services\FayeBroadcaster\FayeBroadcaster;
 use Log;
 
-class BroadcastServiceProvider extends ServiceProvider
+class FayeBroadcastProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
