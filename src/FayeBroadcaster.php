@@ -83,7 +83,7 @@ class FayeBroadcaster extends Broadcaster
     {
         $payload['event_object'] = $event;
         foreach ($channels as $channel) {
-            $this->faye->send($channel, $payload, []);
+            $this->faye->send($channel, $payload);
         }
     }
 }
