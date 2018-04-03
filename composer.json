@@ -1,5 +1,5 @@
 {
-    "name": "arnislielturks/faye-laravel-broadcaster",
+    "name": "mintopia/faye-laravel-broadcaster",
     "description": "Faye service laravel broadcaster",
     "keywords": [
         "laravel",
@@ -13,6 +13,11 @@
         {
             "name": "Arnis Lielturks",
             "email": "arnis.lielturks@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Jessica Smith",
+            "email": "jess@mintopia.net",
             "role": "Developer"
         }
     ],
